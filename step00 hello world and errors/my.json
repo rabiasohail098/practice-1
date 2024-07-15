@@ -1,0 +1,15 @@
+ {
+    "name":"Rabia",
+    "age":35,
+    "enroll":true,
+    "address":{
+        "city":"Karachi",
+        "country":"Pakistan"
+    },
+    "hobbies":[
+        "Reading",
+        "Coding",
+        "Outing",
+        "Cooking"
+    ]
+}
